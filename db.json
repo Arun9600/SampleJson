@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "iPhone 13",
+      "category": "Electronics",
+      "price": 599.99,
+      "description": "The latest iPhone with advanced camera features and A15 Bionic chip.",
+      "ratings": 4.8
+    },
+    {
+      "id": 102,
+      "name": "Samsung Galaxy S21 Ultra",
+      "category": "Electronics",
+      "price": 899,
+      "description": "Flagship Android smartphone with a large AMOLED display and powerful Exynos processor.",
+      "ratings": 4.7
+    },
+    {
+      "id": 103,
+      "name": "Sony Alpha A7 III",
+      "category": "Electronics",
+      "price": 1299.99,
+      "description": "Full-frame mirrorless camera with 24.2MP sensor and 4K video capabilities.",
+      "ratings": 4.9
+    },
+    {
+      "id": 104,
+      "name": "Apple Watch Series 6",
+      "category": "Electronics",
+      "price": 349,
+      "description": "Smartwatch with blood oxygen monitoring and ECG app for heart health.",
+      "ratings": 4.6
+    },
+    {
+      "id": 105,
+      "name": "Dell XPS 13",
+      "category": "Electronics",
+      "price": 799,
+      "description": "High-performance laptop with 11th Gen Intel Core processors and InfinityEdge display.",
+      "ratings": 4.5
+    },
+    {
+      "id": 201,
+      "name": "Organic Bananas",
+      "category": "Groceries",
+      "price": 2.99,
+      "description": "Fresh and nutritious bananas grown without synthetic pesticides.",
+      "ratings": 4.7
+    },
+    {
+      "id": 202,
+      "name": "Dozen Large Eggs",
+      "category": "Groceries",
+      "price": 1.49,
+      "description": "Farm-fresh large eggs with rich flavor.",
+      "ratings": 4.5
+    },
+    {
+      "id": 203,
+      "name": "Whole Grain Bread",
+      "category": "Groceries",
+      "price": 3.99,
+      "description": "Nutritious whole grain bread with no artificial preservatives.",
+      "ratings": 4.6
+    },
+    {
+      "id": 204,
+      "name": "Fresh Milk",
+      "category": "Groceries",
+      "price": 0.99,
+      "description": "Pasteurized and homogenized milk from local dairy farms.",
+      "ratings": 4.8
+    },
+    {
+      "id": 205,
+      "name": "Organic Spinach",
+      "category": "Groceries",
+      "price": 4.49,
+      "description": "Fresh and tender organic spinach leaves.",
+      "ratings": 4.9
+    },
+    {
+      "id": 206,
+      "name": "Organic Spinach",
+      "category": "Groceries",
+      "price": 4.49,
+      "description": "Fresh and tender organic spinach leaves.",
+      "ratings": 4.9
+    },
+    {
+      "id": 207,
+      "name": "Organic Tea",
+      "category": "Health",
+      "price": 4.49,
+      "description": "Fresh and tender organic Tea.",
+      "ratings": 5
+    }
+  ]
+}
